@@ -4,4 +4,4 @@ add command in second line
 change in 2nd file
 changes for config
 
-change in remote 
+change in remote master
