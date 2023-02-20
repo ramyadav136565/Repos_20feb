@@ -2,3 +2,4 @@ this is my second file to see another option of add command
 add command in second line
 
 change in 2nd file
+changes for config
