@@ -3,3 +3,5 @@ this is my third file
 this is a new line added in third file
 
 make change before stash
+
+changes for master
